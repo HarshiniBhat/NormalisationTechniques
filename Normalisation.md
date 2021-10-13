@@ -577,5 +577,14 @@ Test set: Average loss: 0.0259, Accuracy: 9914/10000 (99.14%)
 ## Visualising  the Miscassified and Classified Data
 ### Misclassified Images
 ![](Misclassified.png)
+![](M2)
+![](M3)
+![](M4)
 ### Classified Images
 ![](classified.png)
+![](C2)
+![](C3)
+![](C4)
+
+
+

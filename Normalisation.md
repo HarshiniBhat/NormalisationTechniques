@@ -565,5 +565,17 @@ Test set: Average loss: 0.0259, Accuracy: 9914/10000 (99.14%)
 ##  The loss curve and accuracy curve against different Epochs 
 ### Batch Normalisation
 ![](BatchN.png)
+### Group Normalisation
+![](GN.png)
+### Layer Normalisation
+![](LN.png)
+### Batch Normalisation +L1
+![](BN+L1.png)
+### Batch Normalisation +L2
+![](BN+L2.png)
 
-![](
+## Visualising  the Miscassified and Classified Data
+### Misclassified Images
+![](Misclassified.png)
+### Classified Images
+![](Classified.png)

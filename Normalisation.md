@@ -563,3 +563,7 @@ loss=0.0150 batch_id=234: 100%|██████████| 235/235 [00:18<00
 Test set: Average loss: 0.0259, Accuracy: 9914/10000 (99.14%)
 
 ##  The loss curve and accuracy curve against different Epochs 
+### Batch Normalisation
+![](BatchN.png)
+
+![](

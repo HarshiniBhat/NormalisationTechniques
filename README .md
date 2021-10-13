@@ -569,8 +569,20 @@ Group Normalisation
 ![](/images/GN.png)
 Layer Normalisation
 ![](/images/LN.png)
-Batch Normalisation + L!
+Batch Normalisation + L1
 ![](/images/BN+L1.png)
 Batch Normalisation + L2
 ![](/images/BN+L2.png)
+
+### Visualising the Misclassified images
+![](/images/Misclassified.png)
+![](/images/M2.png)
+![](/images/M3.png)
+![](/images/M4.png)
+### Visualising the Classified images
+![](/images/classified.png)
+![](/images/C2.png)
+![](/images/C3.png)
+![](/images/C4.png)
+
 

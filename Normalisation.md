@@ -481,7 +481,7 @@ Test set: Average loss: 2.3025, Accuracy: 1135/10000 (11.35%)
 loss=2.6766 batch_id=234: 100%|██████████| 235/235 [00:18<00:00, 12.39it/s]
 Test set: Average loss: 2.3026, Accuracy: 980/10000 (9.80%)
 
-## Batch Noemalisation and L2
+## Batch Normalisation and L2
 1
 loss=0.6493 batch_id=234: 100%|██████████| 235/235 [00:18<00:00, 12.72it/s]
 Test set: Average loss: 0.4335, Accuracy: 9271/10000 (92.71%)
@@ -578,4 +578,4 @@ Test set: Average loss: 0.0259, Accuracy: 9914/10000 (99.14%)
 ### Misclassified Images
 ![](Misclassified.png)
 ### Classified Images
-![](Classified.png)
+![](classified.png)
